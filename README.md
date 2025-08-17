@@ -1,15 +1,7 @@
 
-# 👋 Hello, I'm Mahyar
+# 👋 Hi, I'm Mahyar
 
 I'm a passionate **Front-End Developer**
-
-
-## 🚀 About Me
-
-- 🌟 **Specialization**: Front-End Development with Full-Stack capabilities using **Next.js**.
-- 💻 **Experience**: 2+ years of professional experience in delivering dynamic and responsive web applications.
-- 🛠 **Skills**: Proficient in modern web technologies and frameworks, with a focus on creating seamless user experiences and scalable solutions.
-- 🎯 **Mission**: To build intuitive, performant, and visually stunning web applications that solve real-world problems and delight users.
 
 
 ## 🛠 Tech Stack
