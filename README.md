@@ -4,23 +4,6 @@
 I'm a passionate **Front-End Developer**
 
 
-## 🛠 Tech Stack
-
-Here’s a snapshot of the technologies I work with:
-
-- **Core Technologies**: HTML, CSS, JavaScript (ES6+), TypeScript
-- **Frameworks & Libraries**: React.js, Next.js
-- **Styling**: Tailwind CSS
-- **Full-Stack Development**: Next.js (API Routes, Server-Side Rendering, Static Site Generation)
-- **State Management**: Redux, Zustand
-- **Unit Testing**: Jest
-- **PWA**: Service Workers, Web Push API, WebSockets
-- **Tools & Platforms**: Git, GitHub, Vercel,  NPM, ChatGPT
-- **Other**: REST APIs, GraphQL, Responsive Design, Performance Optimization
-
-I’m always eager to explore new tools and technologies to stay ahead in the ever-evolving world of web development.
-
-
 ## 💼 What I Do
 
 - **Front-End Development**: Crafting pixel-perfect, responsive, and accessible user interfaces with a focus on performance and usability.
